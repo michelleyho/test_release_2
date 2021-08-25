@@ -1,4 +1,4 @@
-# Ofs-Dev Repo
+# Imaginary Project Repo
 
 ## Project A:
 Alpha Drop:
