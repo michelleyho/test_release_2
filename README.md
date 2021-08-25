@@ -16,7 +16,7 @@ Branch: [Proj B Alpha](https://github.com/michelleyho/test_release_2/tree/releas
 Tag: [v_1.0_b](https://github.com/michelleyho/test_release_2/tree/v_1.0_b)
 
 Beta Drop:
-Branch: [Proj B Alpha](https://github.com/michelleyho/test_release_2/tree/release/proj_b)
+Branch: [Proj B Beta](https://github.com/michelleyho/test_release_2/tree/release/proj_b)
 Tag: [v_1.0.0_b](https://github.com/michelleyho/test_release_2/tree/v_1.0.0_b)
 
 Beta Drop Update:
